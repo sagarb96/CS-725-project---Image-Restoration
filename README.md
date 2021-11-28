@@ -19,3 +19,4 @@ Dataset used for the RESNet: https://www.kaggle.com/balraj98/berkeley-segmentati
 - https://github.com/atiyo/deep_image_prior/blob/master/deep_image_prior.py
 - https://ameroyer.github.io/image%20analsys/deep_image_prior/
 - https://medium.com/@hirotoschwert/introduction-to-deep-super-resolution-c052d84ce8cf
+- https://github.com/freaky-perceptron/Deep-image-prior
